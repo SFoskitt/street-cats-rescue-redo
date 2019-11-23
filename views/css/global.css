@@ -68,7 +68,12 @@ section {
 .alert-text {
   color: #ff0000;
 }
-
+.green-text {
+  color: #124515;
+}
+.mission {
+  margin: 20px;
+}
 
 html {background:#E4D8C1 none repeat scroll 0 0;}
 body {
